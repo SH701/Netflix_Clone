@@ -31,7 +31,7 @@
 
 ---
 
-## 📂 프로젝트 구조 예시
+## 📂 프로젝트 구조
 
 - Suflix/
 - ├── public/                   # 정적 파일 (favicon, index.html 등)- 
